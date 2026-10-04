@@ -1,0 +1,26 @@
+
+
+# Local development outputs and credentials
+.DS_Store
+._*
+__pycache__/
+*.py[cod]
+.venv/
+build/
+.pio/
+.vs/
+**/.angular/cache/
+node_modules/
+.env
+.env.*
+!.env.example
+*.o
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.pch
+*.tlog
+Debug/
+Release/
